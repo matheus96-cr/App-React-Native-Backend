@@ -34,7 +34,7 @@ Para rodar este aplicativo, você precisa ter o Node.js, npm/yarn e o Expo Go in
 
 3.  **Inicie o Servidor Expo:**
     ```bash
-    npx expo start --lan
+    npx expo start --tunnel
     ```
     *Se estiver usando um ambiente de nuvem (como Codespaces), use `npx expo start --tunnel`.*
 
